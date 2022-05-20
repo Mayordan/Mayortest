@@ -1,1 +1,1 @@
-I am jjust getting started with Github
+I am just getting started with Github
